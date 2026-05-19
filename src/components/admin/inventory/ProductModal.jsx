@@ -218,7 +218,7 @@ const ProductModal = ({
                 <input required name="price" type="number" value={form.price} onChange={handleChange} className={inputClass} />
               </div>
               <div className={`md:col-span-2 transition-all duration-500 delay-[500ms] ${animate ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4"}`}>
-                <label className={labelClass}>Potongan Harga / Diskon (Rp)</label>
+                <label className={labelClass}>Potongan Harga / Diskon (%)</label>
                 <div className="relative">
                   <Tag size={16} className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-400" />
                   <input name="discount_amount" type="number" value={form.discount_amount} onChange={handleChange} className={`${inputClass} pl-11`} placeholder="0" />
