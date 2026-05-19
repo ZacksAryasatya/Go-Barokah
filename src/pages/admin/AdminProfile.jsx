@@ -92,14 +92,6 @@ const AdminProfile = () => {
                       {user?.role || "Admin"}
                     </span>
                   </div>
-
-                  <div className="flex justify-between items-center">
-                    <span className="text-[11px] font-medium text-slate-400 uppercase tracking-tighter">Status Akun</span>
-                    <span className="flex items-center gap-1.5 text-[10px] font-black text-blue-600 uppercase">
-                      <div className="w-1.5 h-1.5 rounded-full bg-blue-500 animate-pulse" />
-                      Aktif
-                    </span>
-                  </div>
                 </div>
 
                 <div className="mt-6 p-4 bg-slate-50 rounded-xl">
