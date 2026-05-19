@@ -113,7 +113,7 @@ const ProductSection = () => {
               PRODUK <br /><span className="text-[#2D5A43]">KAMI.</span>
             </h2>
             <p className="text-gray-500 text-sm md:text-[15px] font-medium max-w-sm leading-relaxed">
-              Jelajahi produk berkualitas tinggi yang kami kurasi khusus untuk memenuhi kebutuhan Anda.
+              Jelajahi produk berkualitas tinggi yang kami khususkan untuk memenuhi kebutuhan Anda.
             </p>
           </div>
         </div>

@@ -37,7 +37,7 @@ const StorePage = () => {
               Katalog <span className="text-[#2D5A43]">Produk.</span>
             </h1>
             <p className="text-gray-500 font-medium text-xs mt-1">
-              Bahan makanan segar langsung dari petani pilihan untuk dapur Anda.
+              Penuhi kebutuhan dapur dengan bahan pilihan yang kami siapkan untuk Anda.
             </p>
           </div>
 
